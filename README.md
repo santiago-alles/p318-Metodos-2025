@@ -18,3 +18,11 @@ Los datos reunen ~3,000 entrevistas, recolectadas en el marco de un experimento 
 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p318-Metodos-2025/master/'
 file <- 'McDowell&Steinberg_JEPS_Dataset.dta'</pre></code>
+
+Replication Data: Reeves & Rogowski (2018)
+------------------
+
+Set de datos para replicar resultados publicados en Andrew <b>Reeves</b> and Jon C. <b>Rogowski</b>. 2018. The Public Cost of Unilateral Action. <i>American Journal of Political Science</i> 62 (2): 424-440. DOI: 10.1111/ajps.12340
+
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p318-Metodos-2025/master/'
+file <- 'RR-AJPS-taps-processed.csv'</pre></code>
